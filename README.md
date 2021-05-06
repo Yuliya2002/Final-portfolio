@@ -1,9 +1,6 @@
 # Final-portfolio
 This is my final portfolio for Art course 
 
-
-Final Personal Portfolio. 
-
 Project 1: Github poetry. 
 
 <head>
@@ -28,7 +25,7 @@ In response, I'd remind them that I was only committing to one walk per week.<p>
 <body>
 
 <h2>HTML Image</h2>
-<https://raw.githubusercontent.com/Yuliya2002/Github_poetry/main/img/walking%20with%20people.jpg>
+<img src="pic_trulli.jpg" alt="Trulli" width="500" height="333">
 
 </body>
 </html>
