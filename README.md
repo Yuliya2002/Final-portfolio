@@ -14,3 +14,8 @@ This is my final portfolio for Art course
 * You can record the video yourself or you can appropriate video and edit it to make it your own
 * You can think at human scale or you can think small (model making?) or huge (space, planets, giants)
 * The virtual background must be enabled, and a demo video of it in use recorded using screen capture software.
+
+# [Project 3: Non-linear game: Game_Life-on-the-island](https://yuliya2002.github.io/game_Life-on-the-island/)
+* Use the Twine non-linear story platform to create a game.
+* Use the Harlowe 3.0.1 format. This is in the settings tab.
+* You can use the downloaded or online version. If you use the online version, you will need to save your work by choosing the “Publish to File” option in the settings tab. This will download an .html file that can be opened on any computer.
