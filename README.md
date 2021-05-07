@@ -8,7 +8,7 @@ This is my final portfolio for Art course
 * Use that text and those images to create a flarf poem website. Include an External CSS page to style it any way you like.
 * Upload (push) the page to GitHub, and make it available using GitHub pages.
 
-(![Gear-Books-Roundup](https://user-images.githubusercontent.com/77672295/117383982-91927c80-aea7-11eb-83a1-8273c03c1c55.jpg)
+![Gear-Books-Roundup](https://user-images.githubusercontent.com/77672295/117383982-91927c80-aea7-11eb-83a1-8273c03c1c55.jpg)
 
 
 # [Project 2: Green screen](https://user-images.githubusercontent.com/77672295/117382568-6a867b80-aea4-11eb-902b-283979babfd3.mp4)
@@ -18,7 +18,7 @@ This is my final portfolio for Art course
 * You can think at human scale or you can think small (model making?) or huge (space, planets, giants)
 * The virtual background must be enabled, and a demo video of it in use recorded using screen capture software.
 
-(![CWhelan-denali](https://user-images.githubusercontent.com/77672295/117384054-b4249580-aea7-11eb-8f19-56de5011f631.jpg)
+![CWhelan-denali](https://user-images.githubusercontent.com/77672295/117384054-b4249580-aea7-11eb-8f19-56de5011f631.jpg)
 
 
 # [Project 3: Non-linear game: Game_Life-on-the-island](https://yuliya2002.github.io/game_Life-on-the-island/)
@@ -26,4 +26,4 @@ This is my final portfolio for Art course
 * Use the Harlowe 3.0.1 format. This is in the settings tab.
 * You can use the downloaded or online version. If you use the online version, you will need to save your work by choosing the “Publish to File” option in the settings tab. This will download an .html file that can be opened on any computer.
 
-(![Unknown](https://user-images.githubusercontent.com/77672295/117384093-cacaec80-aea7-11eb-815c-84c17e8012d7.jpeg)
+![Unknown](https://user-images.githubusercontent.com/77672295/117384093-cacaec80-aea7-11eb-815c-84c17e8012d7.jpeg)
